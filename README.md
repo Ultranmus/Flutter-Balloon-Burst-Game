@@ -18,6 +18,3 @@ Balloon Burst is an exciting and fun Flutter mobile game where players pop ballo
 
 <img src ="https://firebasestorage.googleapis.com/v0/b/github-895c7.appspot.com/o/Screenshot%202023-09-21%20170227.png?alt=media&token=ba8d7540-24ae-485c-b31a-a060b547af7d" height ="300px">
 
-## Getting Started
-
-1. Clone the repository:
